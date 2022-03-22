@@ -10,5 +10,4 @@ Unit 5 Homework Task. In this task I have made a financial planner that allows u
 ### Please Note:
 * main notebook is located in the Starter_Code file in the Instructions Directory
 * Couldnt use .barset as i kept getting a http 404 error. Later found out this was due to a change in the alpaca Codebase itself. Substituted this with .bars
-* Only the base activities are completed
 * framework for Monte Carlo Simulations was provided
